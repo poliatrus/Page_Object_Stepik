@@ -1,0 +1,13 @@
+/.idea
+/.pytest_cache
+/.vscode
+/3_6_10
+/chromedriver.exe
+/environments
+/geckodriver.exe
+/pytest.ini
+/section_1_2
+/section_3
+/terminal_help.py
+/test_ex_google.py
+/__pycache__
